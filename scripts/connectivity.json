@@ -1,0 +1,959 @@
+{
+    "000_Afghanistan": [
+        "122_Pakistan",
+        "157_Tajikistan",
+        "169_Uzbekistan",
+        "158_Turkmenistan",
+        "075_Iran"
+    ],
+    "001_Angola": [
+        "112_Namibia",
+        "034_Republic_of_the_Congo",
+        "175_Zambia",
+        "033_Democratic_Republic_of_the_Congo"
+    ],
+    "002_Albania": [
+        "103_Macedonia",
+        "064_Greece",
+        "088_Kosovo",
+        "106_Montenegro"
+    ],
+    "003_United_Arab_Emirates": [
+        "121_Oman",
+        "138_Saudi_Arabia"
+    ],
+    "004_Argentina": [
+        "021_Bolivia",
+        "022_Brazil",
+        "029_Chile",
+        "131_Paraguay",
+        "167_Uruguay"
+    ],
+    "005_Armenia": [
+        "162_Turkey",
+        "075_Iran",
+        "010_Azerbaijan"
+    ],
+    "006_Antarctica": [],
+    "007_Fr__S__and_Antarctic_Lands": [],
+    "008_Australia": [],
+    "009_Austria": [
+        "040_Czechia",
+        "071_Hungary",
+        "150_Slovenia",
+        "028_Switzerland",
+        "149_Slovakia",
+        "079_Italy",
+        "041_Germany"
+    ],
+    "010_Azerbaijan": [
+        "058_Georgia",
+        "005_Armenia",
+        "162_Turkey",
+        "135_Russia",
+        "075_Iran"
+    ],
+    "011_Burundi": [
+        "136_Rwanda",
+        "164_Tanzania",
+        "033_Democratic_Republic_of_the_Congo"
+    ],
+    "012_Belgium": [
+        "055_France",
+        "041_Germany",
+        "117_Netherlands",
+        "097_Luxembourg"
+    ],
+    "013_Benin": [
+        "155_Togo",
+        "114_Niger",
+        "014_Burkina_Faso",
+        "115_Nigeria"
+    ],
+    "014_Burkina_Faso": [
+        "155_Togo",
+        "059_Ghana",
+        "031_C_te_d_Ivoire",
+        "114_Niger",
+        "013_Benin",
+        "104_Mali"
+    ],
+    "015_Bangladesh": [
+        "105_Myanmar",
+        "073_India"
+    ],
+    "016_Bulgaria": [
+        "064_Greece",
+        "162_Turkey",
+        "147_Serbia",
+        "134_Romania",
+        "103_Macedonia"
+    ],
+    "017_Bahamas": [],
+    "018_Bosnia_and_Herz_": [
+        "147_Serbia",
+        "106_Montenegro",
+        "069_Croatia"
+    ],
+    "019_Belarus": [
+        "127_Poland",
+        "166_Ukraine",
+        "098_Latvia",
+        "135_Russia",
+        "096_Lithuania"
+    ],
+    "020_Belize": [
+        "066_Guatemala",
+        "102_Mexico"
+    ],
+    "021_Bolivia": [
+        "004_Argentina",
+        "124_Peru",
+        "022_Brazil",
+        "029_Chile",
+        "131_Paraguay"
+    ],
+    "022_Brazil": [
+        "004_Argentina",
+        "124_Peru",
+        "148_Suriname",
+        "055_France",
+        "021_Bolivia",
+        "067_Guyana",
+        "131_Paraguay",
+        "167_Uruguay",
+        "035_Colombia",
+        "170_Venezuela"
+    ],
+    "023_Brunei": [
+        "111_Malaysia"
+    ],
+    "024_Bhutan": [
+        "073_India",
+        "030_China"
+    ],
+    "025_Botswana": [
+        "112_Namibia",
+        "176_Zimbabwe",
+        "174_South_Africa",
+        "175_Zambia"
+    ],
+    "026_Central_African_Rep_": [
+        "140_S__Sudan",
+        "154_Chad",
+        "139_Sudan",
+        "032_Cameroon",
+        "033_Democratic_Republic_of_the_Congo",
+        "034_Republic_of_the_Congo"
+    ],
+    "027_Canada": [
+        "168_United_States"
+    ],
+    "028_Switzerland": [
+        "055_France",
+        "041_Germany",
+        "079_Italy",
+        "009_Austria"
+    ],
+    "029_Chile": [
+        "004_Argentina",
+        "021_Bolivia",
+        "124_Peru"
+    ],
+    "030_China": [
+        "105_Myanmar",
+        "090_Laos",
+        "122_Pakistan",
+        "083_Kazakhstan",
+        "085_Kyrgyzstan",
+        "157_Tajikistan",
+        "107_Mongolia",
+        "135_Russia",
+        "171_Vietnam",
+        "073_India",
+        "119_Nepal",
+        "024_Bhutan",
+        "129_Dem__Rep__Korea"
+    ],
+    "031_C_te_d_Ivoire": [
+        "092_Liberia",
+        "059_Ghana",
+        "014_Burkina_Faso",
+        "104_Mali",
+        "060_Guinea"
+    ],
+    "032_Cameroon": [
+        "056_Gabon",
+	"063_Eq__Guinea",
+        "154_Chad",
+        "114_Niger",
+        "115_Nigeria",
+        "026_Central_African_Rep_",
+        "034_Republic_of_the_Congo"
+    ],
+    "033_Democratic_Republic_of_the_Congo": [
+        "140_S__Sudan",
+        "011_Burundi",
+        "164_Tanzania",
+        "175_Zambia",
+        "165_Uganda",
+        "136_Rwanda",
+        "001_Angola",
+        "026_Central_African_Rep_",
+        "034_Republic_of_the_Congo"
+    ],
+    "034_Republic_of_the_Congo": [
+        "056_Gabon",
+        "032_Cameroon",
+        "033_Democratic_Republic_of_the_Congo",
+        "001_Angola",
+        "026_Central_African_Rep_"
+    ],
+    "035_Colombia": [
+        "124_Peru",
+        "022_Brazil",
+        "123_Panama",
+        "046_Ecuador",
+        "170_Venezuela"
+    ],
+    "036_Costa_Rica": [
+        "116_Nicaragua",
+        "123_Panama"
+    ],
+    "037_Cuba": [],
+    "038_N__Cyprus": [
+        "039_Cyprus"
+    ],
+    "039_Cyprus": [
+        "038_N__Cyprus"
+    ],
+    "040_Czechia": [
+        "041_Germany",
+        "127_Poland",
+        "149_Slovakia",
+        "009_Austria"
+    ],
+    "041_Germany": [
+        "040_Czechia",
+        "117_Netherlands",
+        "127_Poland",
+        "055_France",
+        "043_Denmark",
+        "028_Switzerland",
+        "012_Belgium",
+        "097_Luxembourg",
+        "009_Austria"
+    ],
+    "042_Djibouti": [
+        "051_Ethiopia",
+        "145_Somaliland",
+        "048_Eritrea"
+    ],
+    "043_Denmark": [
+        "041_Germany"
+    ],
+    "044_Dominican_Rep_": [
+        "070_Haiti"
+    ],
+    "045_Algeria": [
+        "161_Tunisia",
+        "093_Libya",
+        "114_Niger",
+        "109_Mauritania",
+        "137_W__Sahara",
+        "099_Morocco",
+        "104_Mali"
+    ],
+    "046_Ecuador": [
+        "035_Colombia",
+        "124_Peru"
+    ],
+    "047_Egypt": [
+        "139_Sudan",
+        "093_Libya",
+        "078_Israel"
+    ],
+    "048_Eritrea": [
+        "051_Ethiopia",
+        "139_Sudan",
+        "042_Djibouti"
+    ],
+    "049_Spain": [
+        "055_France",
+        "130_Portugal"
+    ],
+    "050_Estonia": [
+        "098_Latvia",
+        "135_Russia"
+    ],
+    "051_Ethiopia": [
+        "146_Somalia",
+        "140_S__Sudan",
+        "084_Kenya",
+        "048_Eritrea",
+        "139_Sudan",
+        "145_Somaliland",
+        "042_Djibouti"
+    ],
+    "052_Finland": [
+        "118_Norway",
+        "151_Sweden",
+        "135_Russia"
+    ],
+    "053_Fiji": [],
+    "054_Falkland_Is_": [],
+    "055_France": [
+        "012_Belgium",
+        "148_Suriname",
+        "022_Brazil",
+        "028_Switzerland",
+        "049_Spain",
+        "079_Italy",
+        "041_Germany",
+        "097_Luxembourg"
+    ],
+    "056_Gabon": [
+        "063_Eq__Guinea",
+        "032_Cameroon",
+        "034_Republic_of_the_Congo"
+    ],
+    "057_United_Kingdom": [
+        "074_Ireland"
+    ],
+    "058_Georgia": [
+        "135_Russia",
+        "162_Turkey",
+        "010_Azerbaijan"
+    ],
+    "059_Ghana": [
+        "155_Togo",
+        "031_C_te_d_Ivoire",
+        "014_Burkina_Faso"
+    ],
+    "060_Guinea": [
+        "092_Liberia",
+        "031_C_te_d_Ivoire",
+        "143_Sierra_Leone",
+        "062_Guinea-Bissau",
+        "104_Mali",
+        "141_Senegal"
+    ],
+    "061_Gambia": [
+        "141_Senegal"
+    ],
+    "062_Guinea-Bissau": [
+        "141_Senegal",
+        "060_Guinea"
+    ],
+    "063_Eq__Guinea": [
+        "032_Cameroon",
+        "056_Gabon"
+    ],
+    "064_Greece": [
+        "002_Albania",
+        "103_Macedonia",
+        "162_Turkey",
+        "016_Bulgaria"
+    ],
+    "065_Greenland": [],
+    "066_Guatemala": [
+        "144_El_Salvador",
+        "068_Honduras",
+        "020_Belize",
+        "102_Mexico"
+    ],
+    "067_Guyana": [
+        "148_Suriname",
+        "170_Venezuela",
+        "022_Brazil"
+    ],
+    "068_Honduras": [
+        "144_El_Salvador",
+        "066_Guatemala",
+        "116_Nicaragua"
+    ],
+    "069_Croatia": [
+        "106_Montenegro",
+        "071_Hungary",
+        "150_Slovenia",
+        "147_Serbia",
+        "018_Bosnia_and_Herz_"
+    ],
+    "070_Haiti": [
+        "044_Dominican_Rep_"
+    ],
+    "071_Hungary": [
+        "166_Ukraine",
+        "150_Slovenia",
+        "147_Serbia",
+        "134_Romania",
+        "069_Croatia",
+        "149_Slovakia",
+        "009_Austria"
+    ],
+    "072_Indonesia": [
+        "126_Papua_New_Guinea",
+        "111_Malaysia",
+        "159_Timor-Leste"
+    ],
+    "073_India": [
+        "105_Myanmar",
+        "122_Pakistan",
+        "024_Bhutan",
+        "119_Nepal",
+        "030_China",
+        "015_Bangladesh"
+    ],
+    "074_Ireland": [
+        "057_United_Kingdom"
+    ],
+    "075_Iran": [
+        "122_Pakistan",
+        "076_Iraq",
+        "005_Armenia",
+        "162_Turkey",
+        "000_Afghanistan",
+        "158_Turkmenistan",
+        "010_Azerbaijan"
+    ],
+    "076_Iraq": [
+        "138_Saudi_Arabia",
+        "081_Jordan",
+        "162_Turkey",
+        "089_Kuwait",
+        "153_Syria",
+        "075_Iran"
+    ],
+    "077_Iceland": [],
+    "078_Israel": [
+        "081_Jordan",
+        "047_Egypt",
+        "091_Lebanon",
+        "153_Syria",
+        "132_Palestine"
+    ],
+    "079_Italy": [
+        "055_France",
+        "028_Switzerland",
+        "150_Slovenia",
+        "009_Austria"
+    ],
+    "080_Jamaica": [],
+    "081_Jordan": [
+        "138_Saudi_Arabia",
+        "076_Iraq",
+        "153_Syria",
+        "132_Palestine",
+        "078_Israel"
+    ],
+    "082_Japan": [],
+    "083_Kazakhstan": [
+        "085_Kyrgyzstan",
+        "169_Uzbekistan",
+        "158_Turkmenistan",
+        "135_Russia",
+        "030_China"
+    ],
+    "084_Kenya": [
+        "051_Ethiopia",
+        "146_Somalia",
+        "140_S__Sudan",
+        "164_Tanzania",
+        "165_Uganda"
+    ],
+    "085_Kyrgyzstan": [
+        "083_Kazakhstan",
+        "030_China",
+        "157_Tajikistan",
+        "169_Uzbekistan"
+    ],
+    "086_Cambodia": [
+        "171_Vietnam",
+        "090_Laos",
+        "156_Thailand"
+    ],
+    "087_Republic_of_Korea": [
+        "129_Dem__Rep__Korea"
+    ],
+    "088_Kosovo": [
+        "103_Macedonia",
+        "106_Montenegro",
+        "147_Serbia",
+        "002_Albania"
+    ],
+    "089_Kuwait": [
+        "138_Saudi_Arabia",
+        "076_Iraq"
+    ],
+    "090_Laos": [
+        "105_Myanmar",
+        "156_Thailand",
+        "030_China",
+        "086_Cambodia",
+        "171_Vietnam"
+    ],
+    "091_Lebanon": [
+        "153_Syria",
+        "078_Israel"
+    ],
+    "092_Liberia": [
+        "143_Sierra_Leone",
+        "031_C_te_d_Ivoire",
+        "060_Guinea"
+    ],
+    "093_Libya": [
+        "047_Egypt",
+        "154_Chad",
+        "139_Sudan",
+        "114_Niger",
+        "161_Tunisia",
+        "045_Algeria"
+    ],
+    "094_Sri_Lanka": [],
+    "095_Lesotho": [
+        "174_South_Africa"
+    ],
+    "096_Lithuania": [
+        "098_Latvia",
+        "127_Poland",
+        "019_Belarus",
+        "135_Russia"
+    ],
+    "097_Luxembourg": [
+        "012_Belgium",
+        "041_Germany",
+        "055_France"
+    ],
+    "098_Latvia": [
+        "135_Russia",
+        "019_Belarus",
+        "050_Estonia",
+        "096_Lithuania"
+    ],
+    "099_Morocco": [
+        "045_Algeria",
+        "137_W__Sahara"
+    ],
+    "100_Moldova": [
+        "134_Romania",
+        "166_Ukraine"
+    ],
+    "101_Madagascar": [],
+    "102_Mexico": [
+        "020_Belize",
+        "066_Guatemala",
+        "168_United_States"
+    ],
+    "103_Macedonia": [
+        "064_Greece",
+        "088_Kosovo",
+        "147_Serbia",
+        "016_Bulgaria",
+        "002_Albania"
+    ],
+    "104_Mali": [
+        "014_Burkina_Faso",
+        "031_C_te_d_Ivoire",
+        "114_Niger",
+        "109_Mauritania",
+        "045_Algeria",
+        "141_Senegal",
+        "060_Guinea"
+    ],
+    "105_Myanmar": [
+        "090_Laos",
+        "156_Thailand",
+        "073_India",
+        "030_China",
+        "015_Bangladesh"
+    ],
+    "106_Montenegro": [
+        "088_Kosovo",
+        "147_Serbia",
+        "069_Croatia",
+        "002_Albania",
+        "018_Bosnia_and_Herz_"
+    ],
+    "107_Mongolia": [
+        "030_China",
+        "135_Russia"
+    ],
+    "108_Mozambique": [
+        "176_Zimbabwe",
+        "164_Tanzania",
+        "175_Zambia",
+        "174_South_Africa",
+        "152_Swaziland",
+        "110_Malawi"
+    ],
+    "109_Mauritania": [
+        "104_Mali",
+        "137_W__Sahara",
+        "045_Algeria",
+        "141_Senegal"
+    ],
+    "110_Malawi": [
+        "108_Mozambique",
+        "164_Tanzania",
+        "175_Zambia"
+    ],
+    "111_Malaysia": [
+        "023_Brunei",
+        "156_Thailand",
+        "072_Indonesia"
+    ],
+    "112_Namibia": [
+        "001_Angola",
+        "025_Botswana",
+        "174_South_Africa",
+        "175_Zambia"
+    ],
+    "113_New_Caledonia": [],
+    "114_Niger": [
+        "014_Burkina_Faso",
+        "154_Chad",
+        "093_Libya",
+        "032_Cameroon",
+        "045_Algeria",
+        "013_Benin",
+        "115_Nigeria",
+        "104_Mali"
+    ],
+    "115_Nigeria": [
+        "013_Benin",
+        "032_Cameroon",
+        "114_Niger"
+    ],
+    "116_Nicaragua": [
+        "036_Costa_Rica",
+        "068_Honduras"
+    ],
+    "117_Netherlands": [
+        "012_Belgium",
+        "041_Germany"
+    ],
+    "118_Norway": [
+        "151_Sweden",
+        "052_Finland",
+        "135_Russia"
+    ],
+    "119_Nepal": [
+        "073_India",
+        "030_China"
+    ],
+    "120_New_Zealand": [],
+    "121_Oman": [
+        "138_Saudi_Arabia",
+        "173_Yemen",
+        "003_United_Arab_Emirates"
+    ],
+    "122_Pakistan": [
+        "073_India",
+        "030_China",
+        "075_Iran",
+        "000_Afghanistan"
+    ],
+    "123_Panama": [
+        "036_Costa_Rica",
+        "035_Colombia"
+    ],
+    "124_Peru": [
+        "021_Bolivia",
+        "022_Brazil",
+        "029_Chile",
+        "046_Ecuador",
+        "035_Colombia"
+    ],
+    "125_Philippines": [],
+    "126_Papua_New_Guinea": [
+        "072_Indonesia"
+    ],
+    "127_Poland": [
+        "040_Czechia",
+        "166_Ukraine",
+        "149_Slovakia",
+        "135_Russia",
+        "041_Germany",
+        "019_Belarus",
+        "096_Lithuania"
+    ],
+    "128_Puerto_Rico": [],
+    "129_Dem__Rep__Korea": [
+        "087_Republic_of_Korea",
+        "135_Russia",
+        "030_China"
+    ],
+    "130_Portugal": [
+        "049_Spain"
+    ],
+    "131_Paraguay": [
+        "022_Brazil",
+        "004_Argentina",
+        "021_Bolivia"
+    ],
+    "132_Palestine": [
+        "081_Jordan",
+        "078_Israel"
+    ],
+    "133_Qatar": [
+        "138_Saudi_Arabia"
+    ],
+    "134_Romania": [
+        "166_Ukraine",
+        "071_Hungary",
+        "147_Serbia",
+        "016_Bulgaria",
+        "100_Moldova"
+    ],
+    "135_Russia": [
+        "058_Georgia",
+        "127_Poland",
+        "083_Kazakhstan",
+        "166_Ukraine",
+        "050_Estonia",
+        "107_Mongolia",
+        "118_Norway",
+        "098_Latvia",
+        "129_Dem__Rep__Korea",
+        "030_China",
+        "019_Belarus",
+        "052_Finland",
+        "010_Azerbaijan",
+        "096_Lithuania"
+    ],
+    "136_Rwanda": [
+        "164_Tanzania",
+        "165_Uganda",
+        "011_Burundi",
+        "033_Democratic_Republic_of_the_Congo"
+    ],
+    "137_W__Sahara": [
+        "045_Algeria",
+        "099_Morocco",
+        "109_Mauritania"
+    ],
+    "138_Saudi_Arabia": [
+        "121_Oman",
+        "076_Iraq",
+        "081_Jordan",
+        "173_Yemen",
+        "003_United_Arab_Emirates",
+        "089_Kuwait",
+        "133_Qatar"
+    ],
+    "139_Sudan": [
+        "051_Ethiopia",
+        "140_S__Sudan",
+        "047_Egypt",
+        "154_Chad",
+        "048_Eritrea",
+        "093_Libya",
+        "026_Central_African_Rep_"
+    ],
+    "140_S__Sudan": [
+        "051_Ethiopia",
+        "084_Kenya",
+        "139_Sudan",
+        "033_Democratic_Republic_of_the_Congo",
+        "165_Uganda",
+        "026_Central_African_Rep_"
+    ],
+    "141_Senegal": [
+        "061_Gambia",
+        "109_Mauritania",
+        "062_Guinea-Bissau",
+        "104_Mali",
+        "060_Guinea"
+    ],
+    "142_Solomon_Is_": [],
+    "143_Sierra_Leone": [
+        "092_Liberia",
+        "060_Guinea"
+    ],
+    "144_El_Salvador": [
+        "068_Honduras",
+        "066_Guatemala"
+    ],
+    "145_Somaliland": [
+        "146_Somalia",
+        "051_Ethiopia",
+        "042_Djibouti"
+    ],
+    "146_Somalia": [
+        "145_Somaliland",
+        "051_Ethiopia",
+        "084_Kenya"
+    ],
+    "147_Serbia": [
+        "088_Kosovo",
+        "106_Montenegro",
+        "071_Hungary",
+        "134_Romania",
+        "069_Croatia",
+        "016_Bulgaria",
+        "103_Macedonia",
+        "018_Bosnia_and_Herz_"
+    ],
+    "148_Suriname": [
+        "055_France",
+        "022_Brazil",
+        "067_Guyana"
+    ],
+    "149_Slovakia": [
+        "040_Czechia",
+        "127_Poland",
+        "166_Ukraine",
+        "071_Hungary",
+        "009_Austria"
+    ],
+    "150_Slovenia": [
+        "079_Italy",
+        "069_Croatia",
+        "009_Austria",
+        "071_Hungary"
+    ],
+    "151_Sweden": [
+        "118_Norway",
+        "052_Finland"
+    ],
+    "152_Swaziland": [
+        "108_Mozambique",
+        "174_South_Africa"
+    ],
+    "153_Syria": [
+        "076_Iraq",
+        "081_Jordan",
+        "091_Lebanon",
+        "162_Turkey",
+        "078_Israel"
+    ],
+    "154_Chad": [
+        "139_Sudan",
+        "093_Libya",
+        "032_Cameroon",
+        "114_Niger",
+        "026_Central_African_Rep_"
+    ],
+    "155_Togo": [
+        "059_Ghana",
+        "013_Benin",
+        "014_Burkina_Faso"
+    ],
+    "156_Thailand": [
+        "111_Malaysia",
+        "105_Myanmar",
+        "090_Laos",
+        "086_Cambodia"
+    ],
+    "157_Tajikistan": [
+        "169_Uzbekistan",
+        "000_Afghanistan",
+        "085_Kyrgyzstan",
+        "030_China"
+    ],
+    "158_Turkmenistan": [
+        "083_Kazakhstan",
+        "000_Afghanistan",
+        "075_Iran",
+        "169_Uzbekistan"
+    ],
+    "159_Timor-Leste": [
+        "072_Indonesia"
+    ],
+    "160_Trinidad_and_Tobago": [],
+    "161_Tunisia": [
+        "045_Algeria",
+        "093_Libya"
+    ],
+    "162_Turkey": [
+        "058_Georgia",
+        "076_Iraq",
+        "064_Greece",
+        "005_Armenia",
+        "153_Syria",
+        "016_Bulgaria",
+        "075_Iran",
+        "010_Azerbaijan"
+    ],
+    "163_Taiwan": [],
+    "164_Tanzania": [
+        "084_Kenya",
+        "108_Mozambique",
+        "011_Burundi",
+        "175_Zambia",
+        "033_Democratic_Republic_of_the_Congo",
+        "165_Uganda",
+        "136_Rwanda",
+        "110_Malawi"
+    ],
+    "165_Uganda": [
+        "140_S__Sudan",
+        "084_Kenya",
+        "164_Tanzania",
+        "033_Democratic_Republic_of_the_Congo",
+        "136_Rwanda"
+    ],
+    "166_Ukraine": [
+        "127_Poland",
+        "071_Hungary",
+        "134_Romania",
+        "149_Slovakia",
+        "135_Russia",
+        "100_Moldova",
+        "019_Belarus"
+    ],
+    "167_Uruguay": [
+        "004_Argentina",
+        "022_Brazil"
+    ],
+    "168_United_States": [
+        "027_Canada",
+        "102_Mexico"
+    ],
+    "169_Uzbekistan": [
+        "083_Kazakhstan",
+        "085_Kyrgyzstan",
+        "157_Tajikistan",
+        "000_Afghanistan",
+        "158_Turkmenistan"
+    ],
+    "170_Venezuela": [
+        "022_Brazil",
+        "035_Colombia",
+        "067_Guyana"
+    ],
+    "171_Vietnam": [
+        "086_Cambodia",
+        "090_Laos",
+        "030_China"
+    ],
+    "172_Vanuatu": [],
+    "173_Yemen": [
+        "121_Oman",
+        "138_Saudi_Arabia"
+    ],
+    "174_South_Africa": [
+        "095_Lesotho",
+        "176_Zimbabwe",
+        "025_Botswana",
+        "108_Mozambique",
+        "152_Swaziland",
+        "112_Namibia"
+    ],
+    "175_Zambia": [
+        "176_Zimbabwe",
+        "025_Botswana",
+        "108_Mozambique",
+        "164_Tanzania",
+        "033_Democratic_Republic_of_the_Congo",
+        "112_Namibia",
+        "001_Angola",
+        "110_Malawi"
+    ],
+    "176_Zimbabwe": [
+        "108_Mozambique",
+        "025_Botswana",
+        "174_South_Africa",
+        "175_Zambia"
+    ]
+}
