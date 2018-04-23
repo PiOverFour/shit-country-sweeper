@@ -130,13 +130,16 @@ class Country:
 		return adjacent_flags
 	
 	func toggle_flag():
+		var result
 		if not self.is_open:
 			if not self.is_flagged:
 				set_mat_color(self.flagged_color)
+				result = 'FLAGGED'
 			else:
 				set_mat_color(self.selected_color)
+				result = 'UNFLAGGED'
 			self.is_flagged = not self.is_flagged
-			return self.is_flagged
+		return result
 	
 	func set_selected(do_select):
 		if self.is_mine and self.is_open:
@@ -291,10 +294,10 @@ func _input(event):
 	elif event is InputEventMouseButton:
 		if not event.pressed and event.button_index == BUTTON_MASK_RIGHT:
 			if is_country_name(current_country.name) and game_state in ['WAITING', 'PLAYING']:
-				var is_flagged = countries[current_country.name].toggle_flag()
-				if is_flagged:
+				var flag_result = countries[current_country.name].toggle_flag()
+				if flag_result == 'FLAGGED':
 					mine_number -= 1
-				else:
+				elif flag_result == 'UNFLAGGED':
 					mine_number += 1
 				$Labels/Col/Info/remaining.text = '%02d' % mine_number
 		if not event.pressed and event.button_index == BUTTON_MASK_LEFT:
