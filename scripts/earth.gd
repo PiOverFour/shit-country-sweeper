@@ -48,6 +48,7 @@ class Country:
 	
 	const flagged_color = Color(1.0, 0.0, 0.0)
 	const flagged_selected_color = Color(1.0, 0.3, 0.3)
+	const flagged_wrong_color = Color(1.0, 0.6, 0.6)
 	
 	const open_color = Color(0.0, 1.0, 0.0)
 	const open_selected_color = Color(0.3, 1.0, 0.3)
@@ -55,7 +56,7 @@ class Country:
 	const selected_color = Color(0.5, 0.5, 0.5)
 	const unselected_color = Color(1.0, 1.0, 1.0)
 	
-	const dead_color = Color(0.0, 0.0, 0.0)
+	const dead_color = Color(0.1, 0.1, 0.1)
 
 	const region_rects = {1: Rect2(  0, 384, 128, 128),
 						  2: Rect2(128, 384, 128, 128),
@@ -133,10 +134,10 @@ class Country:
 		var result
 		if not self.is_open:
 			if not self.is_flagged:
-				set_mat_color(self.flagged_color)
+				self.set_mat_color(self.flagged_color)
 				result = 'FLAGGED'
 			else:
-				set_mat_color(self.selected_color)
+				self.set_mat_color(self.selected_color)
 				result = 'UNFLAGGED'
 			self.is_flagged = not self.is_flagged
 		return result
@@ -153,7 +154,10 @@ class Country:
 			if do_select:
 				set_mat_color(self.flagged_selected_color)
 			else:
-				set_mat_color(self.flagged_color)
+				if self.is_open and self.is_mine:
+					set_mat_color(self.flagged_wrong_color)
+				else:
+					set_mat_color(self.flagged_color)
 		else:
 			if do_select:
 				set_mat_color(self.selected_color)
@@ -178,6 +182,11 @@ class Country:
 						s.visible = true
 				set_mat_color(self.open_color)
 				return false
+		else: # Only at the end of THE GAME (you lost it)
+			if self.is_mine:
+				pass
+			else:
+				set_mat_color(flagged_wrong_color)
 		
 func is_country_name(name):
 	return name.find('Sea') == -1
