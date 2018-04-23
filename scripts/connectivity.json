@@ -532,6 +532,7 @@
     ],
     "099_Morocco": [
         "045_Algeria",
+        "109_Mauritania",
         "137_W__Sahara"
     ],
     "100_Moldova": [
@@ -587,6 +588,7 @@
         "110_Malawi"
     ],
     "109_Mauritania": [
+        "099_Morocco",
         "104_Mali",
         "137_W__Sahara",
         "045_Algeria",
