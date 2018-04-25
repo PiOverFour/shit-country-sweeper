@@ -30,6 +30,7 @@
         "167_Uruguay"
     ],
     "005_Armenia": [
+	"058_Georgia",
         "162_Turkey",
         "075_Iran",
         "010_Azerbaijan"
@@ -321,6 +322,7 @@
         "074_Ireland"
     ],
     "058_Georgia": [
+        "005_Armenia",
         "135_Russia",
         "162_Turkey",
         "010_Azerbaijan"
